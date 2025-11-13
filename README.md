@@ -1,25 +1,25 @@
-# 👋 Hey there! I'm Faizan Ahmed
+# Hey there! I'm Faizan Ahmed
 
-### 🧠 Just a curious mind turning caffeine into code.
+### Just a curious mind turning caffeine into code.
 
 Welcome to my GitHub — a place where I’m constantly learning, building, and exploring the logic behind things. Whether it's a basic CLI game, a CRUD app using MySQL, or diving into design and storytelling — I love creating things that work *and* feel good to use.
 
 ---
 
-## 🚀 Tech Stack & Skills
+## Tech Stack & Skills
 
-- 👨‍💻 **Languages**: Python, SQL, C basics  
-- 🛠️ **Tools**: Git & GitHub, VS Code, MySQL, Canva, Figma  
-- 📊 **Learning**: Web dev (HTML/CSS/JS), Excel, CLI projects  
-- 🎞️ **Creative**: Cinematic video editing, graphic design (just vibing with it)
+- **Languages**: Python, SQL, C basics  
+- **Tools**: Git & GitHub, VS Code, MySQL, Canva, Figma  
+- **Learning**: Web dev (HTML/CSS/JS), Excel, CLI projects  
+- **Creative**: Cinematic video editing, graphic design (just vibing with it)
 
 ---
 
-## 🧩 Projects I'm Proud Of
+## Projects I'm Proud Of
 
-- 🏞️ **[National Park Quiz](#)** – CLI quiz game about Indian national parks  
-- 💾 **[Python MySQL CRUD App](#)** – A simple database app for Create/Read/Update/Delete operations  
-- 📄 **[CSV Parser](#)** – Handles reading/writing CSV files in Python
+- **[National Park Quiz](#)** – CLI quiz game about Indian national parks  
+- **[Python MySQL CRUD App](#)** – A simple database app for Create/Read/Update/Delete operations  
+- **[CSV Parser](#)** – Handles reading/writing CSV files in Python
 
 > Want to check them out? Browse through my [repositories →](https://github.com/FaiXanAhm3D?tab=repositories)
 
