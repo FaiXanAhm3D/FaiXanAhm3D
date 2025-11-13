@@ -25,29 +25,29 @@ Welcome to my GitHub — a place where I’m constantly learning, building, and 
 
 ---
 
-## 🎯 What I’m Working Towards
+## What I’m Working Towards
 
 - Sharpening my problem-solving skills  
 - Building intermediate-to-advanced Python projects  
 - Improving version control habits and documentation  
 - Exploring backend development & full-stack possibilities  
-- Finding a balance between creativity 🎨 and logic ⚙️  
+- Finding a balance between creativity and logic 
 
 ---
 
-## 🔎 A Little More About Me
+## A Little More About Me
 
-- 🧠 I love learning independently — whether it’s preparing for exams or building side projects  
-- 🗣️ I’m working on improving my communication skills. 
-- 🎥 I’m deeply into storytelling, visual aesthetics, and anything cinematic  
-- 🎯 Discipline and honesty are core to how I work.
+- I love learning independently — whether it’s preparing for exams or building side projects  
+- I’m working on improving my communication skills. 
+- I’m deeply into storytelling, visual aesthetics, and anything cinematic  
+- Discipline and honesty are core to how I work.
 
 ---
 
-## 📫 Reach Me
+## Reach Me
 
-- 💬 Let's connect on 
+- Let's connect on 
  - Instagram :- https://www.instagram.com/_ahmed.faixan/
  - Tiwtter/X :- https://x.com/FaiXan_Ahm3D
  - LinkedIn :-https://www.linkedin.com/in/faizan-ahmed-5411872b5/
-- 📧 Drop a mail at: `faizanahmed24072000@gmail.com`
+- Drop a mail at: `faizanahmed24072000@gmail.com`
