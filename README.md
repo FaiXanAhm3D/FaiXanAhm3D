@@ -15,16 +15,6 @@ Welcome to my GitHub — a place where I’m constantly learning, building, and 
 
 ---
 
-## Projects I'm Proud Of
-
-- **[National Park Quiz](#)** – CLI quiz game about Indian national parks  
-- **[Python MySQL CRUD App](#)** – A simple database app for Create/Read/Update/Delete operations  
-- **[CSV Parser](#)** – Handles reading/writing CSV files in Python
-
-> Want to check them out? Browse through my [repositories →](https://github.com/FaiXanAhm3D?tab=repositories)
-
----
-
 ## What I’m Working Towards
 
 - Sharpening my problem-solving skills  
